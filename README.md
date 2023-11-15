@@ -8,3 +8,4 @@
 
 *git pull
 modificando esse codigo
+*add git fecth
